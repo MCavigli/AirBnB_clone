@@ -37,7 +37,7 @@ Before starting, please fork or clone the repository AirBnB_clone from your part
 * Allowed editors: `vi`, `vim`, `emacs`
 * All your files should end with a new line
 * A `README.md` file, at the root of the folder of the project, is mandatory
-* Your code should be W3C compliant and validate with W3C-Validator
+* Your code should be W3C compliant and validate with [W3C-Validator](https://github.com/holbertonschool/W3C-Validator)
 * All your CSS files should be in `styles` folder
 * All your images should be in `images` folder
 * You are not allowed to use `!important` and `id` (`#...` in the CSS file)
@@ -121,13 +121,13 @@ Layout:
   * font color: #484848
   * font size: 14px
   * font family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  * icon in the browser tab
+  * [icon](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon.png) in the browser tab
 * Header:
   * color: white
   * height: 70px
   * width: 100%
   * border bottom 1px #CCCCCC
-  * logo align on left and center vertically (20px space at the left)
+  * [logo](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/logo.png) align on left and center vertically (20px space at the left)
 * Footer:
   * color white
   * height: 60px
@@ -350,19 +350,19 @@ Add more information to a Place article:
       * classname: max_guest
       * width: 100px
       * fake text
-      * icon
+      * [icon](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_group.png)
     * Number of bedrooms:
       * tag: div
       * classname: number_rooms
       * width: 100px
       * fake text
-      * icon
+      * [icon](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_bed.png)
     * Number of bathrooms:
         * tag: div
 	* classname: number_bathrooms
 	* width: 100px
 	* fake text
-	* icon
+	* [icon](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_bath.png)
 * User section:
   * tag: div
   * classname: user
